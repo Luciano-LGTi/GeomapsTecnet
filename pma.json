@@ -12,9 +12,16 @@
     "name": "PMA CAM BRADESCO PTZ"
   },
   {
-    "key": "PMACEF",
+    "key": "PMACEFFIXA",
     "latitude": -22.663268,
     "longitude": -50.418417,
     "name": "PMA CAM CEF FIXA" 
+  },
+  {
+    "key": "PMACEFFIXAPTZ",
+    "latitude": -22.663289,
+    "longitude": -50.418521,
+    "name": "PMA CAM CEF PTZ"
   }
+
 ]
