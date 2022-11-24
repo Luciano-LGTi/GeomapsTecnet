@@ -18,6 +18,12 @@
     "name": "PMA CAM CEF FIXA" 
   },
   {
+    "key": "PMAPAULINHOTREVO",
+    "latitude": -22.674199,
+    "longitude": -50.432213,
+    "name": "PMA PAULINHO PTZ"
+  },
+  {
     "key": "PMACEFFIXAPTZ",
     "latitude": -22.663289,
     "longitude": -50.418521,
